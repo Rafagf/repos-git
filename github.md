@@ -1,6 +1,6 @@
 ##GitHub
 
-[GitHub](https://github.com/) es probablemente la plataforma de desarrollo colaborativo de software más popular, alcanzando los 10 millones de repositorios en diciembre de 2013. Permite alojar proyectos utilizando el sistema de control de versiones Git.
+[GitHub](https://github.com/) es probablemente la plataforma de desarrollo colaborativo de software más popular, alcanzando los 10 millones de repositorios en diciembre de 2013. Permite alojar proyectos utilizando el sistema de control de versiones Git. 
 
 ###Características principales
 
